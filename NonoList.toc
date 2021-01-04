@@ -1,0 +1,8 @@
+## Interface : 11306
+## Title : Nono's List
+## Author : Nono
+## Notes : test v0
+## Version : 0.1
+## SavedVariables: NonoListSavedVariables
+
+NonoList.lua
